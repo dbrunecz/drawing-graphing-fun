@@ -1,3 +1,5 @@
+/* Copyright (C) 2020 David Brunecz. Subject to GPL 2.0 */
+
 int float_cmp(float a, float range)
 {
 	return fabs(a) < fabs(range) ? 1 : 0;
