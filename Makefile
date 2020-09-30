@@ -1,5 +1,6 @@
 
 #apt-get install libx11-dev
+#apt-get install ocl-icd-opencl-dev
 
 CFLAGS+= -Wall -Werror
 CFLAGS+= -ggdb
